@@ -1,0 +1,26 @@
+patch:
+  schema/name: 小鹤双拼
+  switches:
+    - name: ascii_mode
+      reset: 0
+      states: [中文, 西文]
+    - name: emoji_suggestion
+      reset: 1
+      states: ["🈚︎", "🈶️"]
+    - name: full_shape
+      states: [半角, 全角]
+    - name: simplification
+      reset: 1
+      states: [漢字, 汉字]
+    - name: ascii_punct
+      states: [。，, ．，]
+  engine/filters:
+    - simplifier@emoji_suggestion
+    - simplifier
+    - uniquifier
+  emoji_suggestion:
+    opencc_config: emoji.json
+    option_name: emoji_suggestion
+    tips: none
+    inherit_comment: false
+  translator/preedit_format: []
