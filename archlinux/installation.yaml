@@ -1,0 +1,7 @@
+distribution_code_name: "fcitx-rime"
+distribution_name: Rime
+distribution_version: 5.0.16
+install_time: "Wed Mar 15 19:56:12 2023"
+installation_id: "archlinux"
+rime_version: 1.8.5
+sync_dir: "/home/bingo/.config/rime"
