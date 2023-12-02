@@ -1802,7 +1802,7 @@ hui fu hou 	恢復後	c=1 d=0.0587185 t=35256
 hui fu li de 	回覆裏的	c=1 d=0.774916 t=35256
 hui fu ma 	恢復碼	c=7 d=2.45076 t=35256
 hui gun 	回滾	c=8 d=0.0149956 t=35256
-hui he 	回合	c=1 d=1 t=35212
+hui he 	回合	c=1 d=0.802519 t=35256
 hui hua 	回話	c=1 d=0.00260584 t=35256
 hui hua 	會話	c=6 d=0.852144 t=35256
 hui hua kuang 	會話框	c=1 d=2.78179e-07 t=35256
@@ -2126,7 +2126,7 @@ jiu ba 	就把	c=1 d=0.00484407 t=35256
 jiu ban ben 	舊版本	c=1 d=0.282239 t=35256
 jiu bu hui 	就不會	c=2 d=0.00191125 t=35256
 jiu bu yong 	就不用	c=1 d=0.000393669 t=35256
-jiu chan 	糾纏	c=1 d=1 t=35196
+jiu chan 	糾纏	c=1 d=0.740818 t=35256
 jiu de 	舊的	c=3 d=0.814799 t=35256
 jiu ding zhe liang ge 	就定這兩個	c=1 d=0.615697 t=35256
 jiu gen 	就跟	c=1 d=0.178173 t=35256
@@ -2474,7 +2474,7 @@ liang zhang biao 	兩張表	c=5 d=0.25641 t=35256
 liang zhe 	兩者	c=5 d=0.559252 t=35256
 liang zhi 	兩隻	c=1 d=5.99353e-08 t=35256
 liang zhong 	兩種	c=7 d=1.70504 t=35256
-liang zi 	量子	c=1 d=1 t=35195
+liang zi 	量子	c=1 d=0.737123 t=35256
 liao 	聊	c=1 d=0.00780817 t=35256
 liao jie 	瞭解	c=4 d=0.980199 t=35256
 lie 	列	c=3 d=0.000221519 t=35256
@@ -3269,7 +3269,7 @@ shan wei 	羶味	c=1 d=0.0405589 t=35256
 shang 	上	c=63 d=3.73494 t=35256
 shang 	商	c=7 d=0.745549 t=35256
 shang ban 	上班	c=3 d=2.12055e-10 t=35256
-shang bao 	上報	c=1 d=1 t=35237
+shang bao 	上報	c=1 d=0.909373 t=35256
 shang ce suo 	上廁所	c=0 d=0.00992613 t=35256
 shang chuan 	上傳	c=49 d=1.64885 t=35256
 shang chuan de 	上傳的	c=1 d=3.38017e-05 t=35256
@@ -4659,7 +4659,7 @@ yin ni 	印尼	c=0 d=4.53999e-06 t=35256
 yin pin 	音頻	c=1 d=0.847894 t=35256
 yin qing 	引擎	c=2 d=0.00763509 t=35256
 yin ru 	引入	c=6 d=0.891366 t=35256
-yin si 	隱私	c=1 d=1 t=35207
+yin si 	隱私	c=1 d=0.782705 t=35256
 yin su 	因素	c=1 d=0.000796726 t=35256
 yin wei 	因爲	c=18 d=1.41496 t=35256
 yin xiang 	印象	c=0 d=0.00221482 t=35256
